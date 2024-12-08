@@ -37,7 +37,7 @@ This project focuses on a basic qualitative analysis conducted using NVivo. A si
 ## **How to Use**
 1. **Download Files**: Access the conversation, codes, and NVivo outputs from the respective folders.
 2. **Explore Visualizations**: Review the word cloud and charts to understand the insights.
-3. **Analyze the Report**: Open the [https://github.com/dassangita844/Basic_Qualitative_Analysis_Using_NVivo/blob/main/Project%20Summary%20Formatted%20Report.docx](report.docx) file for a detailed summary of the findings.
+3. **Analyze the Report**: Open the [report.docx](https://github.com/dassangita844/Basic_Qualitative_Analysis_Using_NVivo/blob/main/Project%20Summary%20Formatted%20Report.docx))
 
 
 ## **Technologies Used**
